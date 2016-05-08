@@ -8,3 +8,5 @@ Second is about the construction of the replaced circuit.
 Third is about the code part of arduino and processing.
 
 Arduino code is entered into the board first. When running the project, there is only processing working.
+
+This code file contains the link for the vedio.
