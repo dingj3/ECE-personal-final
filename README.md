@@ -7,3 +7,4 @@ First is about the construction about the motor car and the limitation.
 Second is about the construction of the replaced circuit.
 Third is about the code part of arduino and processing.
 
+Arduino code is entered into the board first. When running the project, there is only processing working.
